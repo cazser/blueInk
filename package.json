@@ -1,0 +1,21 @@
+{
+    "name": "Ink",
+    "displayName": "Ink",
+    "description": "Not ready yet",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ink Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Ink Theme-color-theme.json"
+            }
+        ]
+    }
+}
