@@ -121,7 +121,7 @@
     "tab.unfocusedHoverBorder": "#007acc",
     // seems to not work https://github.com/Microsoft/vscode-docs/issues/2264#issuecomment-445311699
     "tab.hoverBorder": "#ffffff",
-    "tab.inactiveBackground": "#ffffff",
+    "tab.inactiveBackground": "#f0ffff",
     "tab.inactiveForeground": "#7d95a1",
     "terminal.ansiBlack": "#1a1a1a",
     "terminal.ansiBlue": "#3778b7",
